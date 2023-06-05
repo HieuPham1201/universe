@@ -1,0 +1,24 @@
+{
+    "arch": null,
+    "build": "pyh9f0ad1d_0",
+    "build_number": 0,
+    "build_string": "pyh9f0ad1d_0",
+    "channel": "file:///C:/Users/HP/.eclipse/903338280_win32_win32_x86_64/plugins/sdl.harvard.geospatial.channel.bin.win32.x86_64_1.0.0.202212100353/pkgs/win-64",
+    "constrains": [],
+    "depends": [
+        "python"
+    ],
+    "fn": "appdirs-1.4.4-pyh9f0ad1d_0.tar.bz2",
+    "license": "MIT",
+    "md5": "5f095bc6454094e96f146491fd03633b",
+    "name": "appdirs",
+    "noarch": "python",
+    "platform": null,
+    "sha256": "ae9fb8f68281f84482f2c234379aa12405a9e365151d43af20b3ae1f17312111",
+    "size": 12840,
+    "subdir": "noarch",
+    "timestamp": 1603108499239,
+    "track_features": "",
+    "url": "file:///C:/Users/HP/.eclipse/903338280_win32_win32_x86_64/plugins/sdl.harvard.geospatial.channel.bin.win32.x86_64_1.0.0.202212100353/pkgs/win-64/appdirs-1.4.4-pyh9f0ad1d_0.tar.bz2",
+    "version": "1.4.4"
+}

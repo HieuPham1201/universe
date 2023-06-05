@@ -1,0 +1,17 @@
+{
+  "arch": null,
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "depends": [
+    "docutils >=0.3",
+    "pyparsing",
+    "python >=3.4"
+  ],
+  "license": "EPL-2.0",
+  "name": "amply",
+  "noarch": "python",
+  "platform": null,
+  "subdir": "noarch",
+  "timestamp": 1650975803732,
+  "version": "0.1.5"
+}

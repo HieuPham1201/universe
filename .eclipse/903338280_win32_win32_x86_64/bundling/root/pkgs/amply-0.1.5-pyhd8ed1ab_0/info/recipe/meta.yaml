@@ -1,0 +1,69 @@
+# This file created by conda-build 3.21.8
+# meta.yaml template originally from:
+# /home/conda/recipe_root, last modified Tue Apr 26 12:20:55 2022
+# ------------------------------------------------
+
+package:
+  name: amply
+  version: 0.1.5
+source:
+  sha256: ad717b490b6b7055909faa195e82a4432b706f8f95854050172f42931e478426
+  url: https://pypi.io/packages/source/a/amply/amply-0.1.5.tar.gz
+build:
+  noarch: python
+  number: '0'
+  script: /home/conda/feedstock_root/build_artifacts/amply_1650975715775/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place/bin/python
+    -m pip install . -vv
+  string: pyhd8ed1ab_0
+requirements:
+  host:
+    - _libgcc_mutex 0.1 conda_forge
+    - _openmp_mutex 4.5 2_gnu
+    - bzip2 1.0.8 h7f98852_4
+    - ca-certificates 2021.10.8 ha878542_0
+    - ld_impl_linux-64 2.36.1 hea4e1c9_2
+    - libffi 3.4.2 h7f98852_5
+    - libgcc-ng 11.2.0 h1d223b6_16
+    - libgomp 11.2.0 h1d223b6_16
+    - libnsl 2.0.0 h7f98852_0
+    - libuuid 2.32.1 h7f98852_1000
+    - libzlib 1.2.11 h166bdaf_1014
+    - ncurses 6.3 h27087fc_1
+    - openssl 3.0.2 h166bdaf_1
+    - packaging 21.3 pyhd8ed1ab_0
+    - pip 22.0.4 pyhd8ed1ab_0
+    - pyparsing 3.0.8 pyhd8ed1ab_0
+    - python 3.10.4 h2660328_0_cpython
+    - python_abi 3.10 2_cp310
+    - readline 8.1 h46c0cb4_0
+    - setuptools 62.1.0 py310hff52083_0
+    - setuptools-scm 6.4.2 pyhd8ed1ab_0
+    - setuptools_scm 6.4.2 hd8ed1ab_0
+    - sqlite 3.38.2 h4ff8645_0
+    - tk 8.6.12 h27826a3_0
+    - tomli 2.0.1 pyhd8ed1ab_0
+    - tzdata 2022a h191b570_0
+    - wheel 0.37.1 pyhd8ed1ab_0
+    - xz 5.2.5 h516909a_1
+    - zlib 1.2.11 h166bdaf_1014
+  run:
+    - docutils >=0.3
+    - pyparsing
+    - python >=3.4
+test:
+  commands:
+    - pip check
+  imports:
+    - amply
+  requires:
+    - pip
+about:
+  home: http://github.com/willu47/amply
+  license: EPL-2.0
+  license_file: LICENSE
+  summary: Amply allows you to load and manipulate AMPL/GLPK data as Python data structures
+extra:
+  copy_test_source_files: true
+  final: true
+  recipe-maintainers:
+    - ocefpaf

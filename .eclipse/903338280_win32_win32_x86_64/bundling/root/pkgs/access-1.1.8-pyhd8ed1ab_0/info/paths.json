@@ -1,0 +1,95 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/access-1.1.8.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/access-1.1.8.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "8184fabfc433d863e75d08b2bd2b0e254ebf4b503eca6eabda7e8b0d70933b52",
+      "size_in_bytes": 1490
+    },
+    {
+      "_path": "site-packages/access-1.1.8.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "829bc10b0d8dcc81debbd5466ae61e2c46f9da538d3826ce8195815da1804a8f",
+      "size_in_bytes": 2019
+    },
+    {
+      "_path": "site-packages/access-1.1.8.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "abe67aaeb4a07066efb1b8b96873e2b27980d5546b79a3ac125b98b60c4edae2",
+      "size_in_bytes": 1490
+    },
+    {
+      "_path": "site-packages/access-1.1.8.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/access-1.1.8.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "site-packages/access-1.1.8.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "267e64d0ab500afd0bb1613f9b5671f5969cace6e4a6d126ea79b519bd384344",
+      "size_in_bytes": 102
+    },
+    {
+      "_path": "site-packages/access-1.1.8.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "74a53d5ef93d260701dee7ef8ae4957d363a299d9e8a195cbd87ab63ffb4d0e4",
+      "size_in_bytes": 7
+    },
+    {
+      "_path": "site-packages/access/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "480b6a2ef28907fbd3894f15026f74faecfa7fdbfe64f0c68c437bde7f999ab2",
+      "size_in_bytes": 179
+    },
+    {
+      "_path": "site-packages/access/access.py",
+      "path_type": "hardlink",
+      "sha256": "2d11e9e4d79cb93d3b3e0be99dd693d81cfb9efa6cc726a1f945e0f61c7fb9b4",
+      "size_in_bytes": 72980
+    },
+    {
+      "_path": "site-packages/access/datasets.py",
+      "path_type": "hardlink",
+      "sha256": "6dfc616c7cc043046a441e0f96651ed877b1a99b450c5935b2dd3a7d2c9b019e",
+      "size_in_bytes": 2236
+    },
+    {
+      "_path": "site-packages/access/fca.py",
+      "path_type": "hardlink",
+      "sha256": "3c95778627817b2cda0f0346c45575d6cf4446acef926cfceb9b10eef58ced6e",
+      "size_in_bytes": 18812
+    },
+    {
+      "_path": "site-packages/access/helpers.py",
+      "path_type": "hardlink",
+      "sha256": "58f30732e891523a20457e722518df589a8b845754682499c7f9e8b6065b77c0",
+      "size_in_bytes": 1329
+    },
+    {
+      "_path": "site-packages/access/raam.py",
+      "path_type": "hardlink",
+      "sha256": "8902d1e347b8020c70151a9e734e7aff84c7388b08e43d63680d95b5e6396500",
+      "size_in_bytes": 7430
+    },
+    {
+      "_path": "site-packages/access/weights.py",
+      "path_type": "hardlink",
+      "sha256": "9c42a12cfcad561b29e1c6b3f39b921fadeb26493959d1fafce01decc30084e8",
+      "size_in_bytes": 4499
+    }
+  ],
+  "paths_version": 1
+}

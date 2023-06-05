@@ -1,0 +1,26 @@
+{
+    "arch": null,
+    "build": "h8cf3c4a_0",
+    "build_number": 0,
+    "build_string": "h8cf3c4a_0",
+    "channel": "file:///C:/Users/HP/.eclipse/903338280_win32_win32_x86_64/plugins/sdl.harvard.geospatial.channel.bin.win32.x86_64_1.0.0.202212100353/pkgs/win-64",
+    "constrains": [
+        "ipython ==8.7.0.*"
+    ],
+    "depends": [
+        "python 3.9.*"
+    ],
+    "fn": "_ipython_minor_entry_point-8.7.0-h8cf3c4a_0.conda",
+    "license": "BSD-3-Clause",
+    "md5": "0b7821445f86bbfc5b75ef9d812453c6",
+    "name": "_ipython_minor_entry_point",
+    "noarch": "python",
+    "platform": null,
+    "sha256": "7c6f0748101ae31360b3a84727aceb246afd9fbb0eca17b1ebfe13ae58e62bf8",
+    "size": 5962,
+    "subdir": "noarch",
+    "timestamp": 1669840842735,
+    "track_features": "",
+    "url": "file:///C:/Users/HP/.eclipse/903338280_win32_win32_x86_64/plugins/sdl.harvard.geospatial.channel.bin.win32.x86_64_1.0.0.202212100353/pkgs/win-64/_ipython_minor_entry_point-8.7.0-h8cf3c4a_0.conda",
+    "version": "8.7.0"
+}

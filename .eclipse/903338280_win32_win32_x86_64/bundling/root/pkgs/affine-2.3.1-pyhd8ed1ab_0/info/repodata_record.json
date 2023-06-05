@@ -1,0 +1,25 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "file:///C:/Users/HP/.eclipse/903338280_win32_win32_x86_64/plugins/sdl.harvard.geospatial.channel.bin.win32.x86_64_1.0.0.202212100353/pkgs/win-64",
+    "constrains": [],
+    "depends": [
+        "python >=3.6"
+    ],
+    "fn": "affine-2.3.1-pyhd8ed1ab_0.tar.bz2",
+    "license": "BSD-3-Clause",
+    "license_family": "BSD",
+    "md5": "466dc5c1b75c93180efbd81d99dc29b0",
+    "name": "affine",
+    "noarch": "python",
+    "platform": null,
+    "sha256": "f3d58687fb000acc5d5f773d6e633ffb382575895abbc8db3d9b8e3996b05d39",
+    "size": 17689,
+    "subdir": "noarch",
+    "timestamp": 1648309141625,
+    "track_features": "",
+    "url": "file:///C:/Users/HP/.eclipse/903338280_win32_win32_x86_64/plugins/sdl.harvard.geospatial.channel.bin.win32.x86_64_1.0.0.202212100353/pkgs/win-64/affine-2.3.1-pyhd8ed1ab_0.tar.bz2",
+    "version": "2.3.1"
+}

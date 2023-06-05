@@ -1,0 +1,26 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "file:///C:/Users/HP/.eclipse/903338280_win32_win32_x86_64/plugins/sdl.harvard.geospatial.channel.bin.win32.x86_64_1.0.0.202212100353/pkgs/win-64",
+    "constrains": [],
+    "depends": [
+        "docutils >=0.3",
+        "pyparsing",
+        "python >=3.4"
+    ],
+    "fn": "amply-0.1.5-pyhd8ed1ab_0.tar.bz2",
+    "license": "EPL-2.0",
+    "md5": "77d9fa71552d07696ba44d2fac4f3d28",
+    "name": "amply",
+    "noarch": "python",
+    "platform": null,
+    "sha256": "c955ed941ad2ed4cca64cff82037d315a18682ddcdbeec1be1c32e85eee09de9",
+    "size": 20902,
+    "subdir": "noarch",
+    "timestamp": 1650975803732,
+    "track_features": "",
+    "url": "file:///C:/Users/HP/.eclipse/903338280_win32_win32_x86_64/plugins/sdl.harvard.geospatial.channel.bin.win32.x86_64_1.0.0.202212100353/pkgs/win-64/amply-0.1.5-pyhd8ed1ab_0.tar.bz2",
+    "version": "0.1.5"
+}

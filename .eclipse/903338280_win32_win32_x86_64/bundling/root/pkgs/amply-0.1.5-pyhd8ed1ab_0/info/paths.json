@@ -1,0 +1,71 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/amply-0.1.5.dist-info/AUTHORS",
+      "path_type": "hardlink",
+      "sha256": "bb9a80782df08e06f62c8530c039aa78ff9303ad6ab6a1184eda4621153dfb2c",
+      "size_in_bytes": 233
+    },
+    {
+      "_path": "site-packages/amply-0.1.5.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/amply-0.1.5.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "0435570a20c5b24623b98cbcd0b4d0340d5550007388cda4c6b198b0cfa14a86",
+      "size_in_bytes": 11320
+    },
+    {
+      "_path": "site-packages/amply-0.1.5.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "acb67db48d25f9d88e883cba028f48eb764a40825b6480e0723f8a62c212d34f",
+      "size_in_bytes": 15647
+    },
+    {
+      "_path": "site-packages/amply-0.1.5.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "60d9b508bb3852e62e84eedeefd790563f44481f0b5b563ccf4223d69c642454",
+      "size_in_bytes": 969
+    },
+    {
+      "_path": "site-packages/amply-0.1.5.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/amply-0.1.5.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "site-packages/amply-0.1.5.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "7845b5f26ca74fe428b0a57d6feb410ffd92f6b9bb6b75e41fd9d64cad205097",
+      "size_in_bytes": 101
+    },
+    {
+      "_path": "site-packages/amply-0.1.5.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "6af168ea58794721622426c7ade8e9d3e1130184084ca49ac495a05477ca2fb6",
+      "size_in_bytes": 6
+    },
+    {
+      "_path": "site-packages/amply/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "3a929ed9498ca9b501e940d14d50ec2ebe7da7a6ee5084e310fc17fff2ddacf5",
+      "size_in_bytes": 72
+    },
+    {
+      "_path": "site-packages/amply/amply.py",
+      "path_type": "hardlink",
+      "sha256": "bc1cf3564a90182205b5acdec359ab5a7ef304f898dd21af1e265bd63caf81f5",
+      "size_in_bytes": 22351
+    }
+  ],
+  "paths_version": 1
+}

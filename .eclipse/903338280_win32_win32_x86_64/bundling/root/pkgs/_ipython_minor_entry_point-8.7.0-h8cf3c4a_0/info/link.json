@@ -1,0 +1,9 @@
+{
+  "noarch": {
+    "entry_points": [
+      "ipython3.9 = IPython:start_ipython"
+    ],
+    "type": "python"
+  },
+  "package_metadata_version": 1
+}

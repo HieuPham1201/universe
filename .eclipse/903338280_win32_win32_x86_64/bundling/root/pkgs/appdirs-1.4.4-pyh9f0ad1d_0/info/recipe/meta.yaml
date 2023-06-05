@@ -1,0 +1,55 @@
+# This file created by conda-build 3.20.4
+# meta.yaml template originally from:
+# /home/conda/recipe_root, last modified Mon Oct 19 11:52:13 2020
+# ------------------------------------------------
+
+package:
+    name: appdirs
+    version: 1.4.4
+source:
+    sha256: 7d5d0167b2b1ba821647616af46a749d1c653740dd0d2415100fe26e27afdf41
+    url: https://pypi.io/packages/source/a/appdirs/appdirs-1.4.4.tar.gz
+build:
+    noarch: python
+    number: '0'
+    script: /home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/python
+        -m pip install . --no-deps -vv
+    string: pyh9f0ad1d_0
+requirements:
+    host:
+        - _libgcc_mutex 0.1 conda_forge
+        - _openmp_mutex 4.5 1_gnu
+        - ca-certificates 2020.6.20 hecda079_0
+        - certifi 2020.6.20 py36h9880bd3_2
+        - ld_impl_linux-64 2.35 h769bd43_9
+        - libffi 3.2.1 he1b5a44_1007
+        - libgcc-ng 9.3.0 h5dbcf3e_17
+        - libgomp 9.3.0 h5dbcf3e_17
+        - libstdcxx-ng 9.3.0 h2ae2ef3_17
+        - ncurses 6.2 he1b5a44_2
+        - openssl 1.1.1h h516909a_0
+        - pip 20.2.4 py_0
+        - python 3.6.11 h4d41432_2_cpython
+        - python_abi 3.6 1_cp36m
+        - readline 8.0 he28a2e2_2
+        - setuptools 49.6.0 py36h9880bd3_2
+        - sqlite 3.33.0 h4cf870e_1
+        - tk 8.6.10 hed695b0_1
+        - wheel 0.35.1 pyh9f0ad1d_0
+        - xz 5.2.5 h516909a_1
+        - zlib 1.2.11 h516909a_1010
+    run:
+        - python
+test:
+    imports:
+        - appdirs
+about:
+    home: http://github.com/ActiveState/appdirs
+    license: MIT
+    license_file: LICENSE.txt
+    summary: A small Python module for determining appropriate platform-specific dirs.
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - ocefpaf

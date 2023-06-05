@@ -1,0 +1,18 @@
+{
+  "arch": null,
+  "build": "h8cf3c4a_0",
+  "build_number": 0,
+  "constrains": [
+    "ipython ==8.7.0.*"
+  ],
+  "depends": [
+    "python 3.9.*"
+  ],
+  "license": "BSD-3-Clause",
+  "name": "_ipython_minor_entry_point",
+  "noarch": "python",
+  "platform": null,
+  "subdir": "noarch",
+  "timestamp": 1669840842735,
+  "version": "8.7.0"
+}

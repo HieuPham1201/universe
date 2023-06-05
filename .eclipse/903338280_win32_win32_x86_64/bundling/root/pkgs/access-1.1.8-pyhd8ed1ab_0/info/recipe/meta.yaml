@@ -1,0 +1,77 @@
+# This file created by conda-build 3.21.9
+# meta.yaml template originally from:
+# /home/conda/recipe_root, last modified Mon Aug  1 12:40:31 2022
+# ------------------------------------------------
+
+package:
+  name: access
+  version: 1.1.8
+source:
+  sha256: 2b72b7ef277671d4fca1732cf2b342e2773359c26b7e16d237ff8ce42d32c191
+  url: https://pypi.io/packages/source/a/access/access-1.1.8.tar.gz
+build:
+  noarch: python
+  number: '0'
+  script: /home/conda/feedstock_root/build_artifacts/access_1659357695203/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/bin/python
+    -m pip install . -vv
+  string: pyhd8ed1ab_0
+requirements:
+  host:
+    - _libgcc_mutex 0.1 conda_forge
+    - _openmp_mutex 4.5 2_gnu
+    - bzip2 1.0.8 h7f98852_4
+    - ca-certificates 2022.6.15 ha878542_0
+    - ld_impl_linux-64 2.36.1 hea4e1c9_2
+    - libffi 3.4.2 h7f98852_5
+    - libgcc-ng 12.1.0 h8d9b700_16
+    - libgomp 12.1.0 h8d9b700_16
+    - libnsl 2.0.0 h7f98852_0
+    - libuuid 2.32.1 h7f98852_1000
+    - libzlib 1.2.12 h166bdaf_2
+    - ncurses 6.3 h27087fc_1
+    - openssl 3.0.5 h166bdaf_0
+    - pip 22.2.1 pyhd8ed1ab_0
+    - python 3.10.5 ha86cf86_0_cpython
+    - python_abi 3.10 2_cp310
+    - readline 8.1.2 h0f457ee_0
+    - setuptools 63.3.0 py310hff52083_0
+    - sqlite 3.39.2 h4ff8645_0
+    - tk 8.6.12 h27826a3_0
+    - tzdata 2022a h191b570_0
+    - wheel 0.37.1 pyhd8ed1ab_0
+    - xz 5.2.5 h516909a_1
+    - zlib 1.2.12 h166bdaf_2
+  run:
+    - geopandas
+    - numpy >=1.3
+    - pandas >=0.23.4
+    - python >=3.6
+    - requests >=2
+test:
+  commands:
+    - pip check
+  imports:
+    - access
+  requires:
+    - pip
+about:
+  description: 'access is a class and function for calculating the spatial accessibility
+
+    of resources.  It is designed for python 3.5 and higher.
+
+    Pandas (and numpy) are required, and geopandas allows for some additional functionality.
+
+    '
+  dev_url: https://github.com/pysal/access
+  doc_url: https://access.readthedocs.io/
+  home: https://access.readthedocs.io/
+  license: BSD-3-Clause
+  license_family: BSD
+  license_file: LICENSE
+  summary: classical and novel measures of spatial accessibility to services
+extra:
+  copy_test_source_files: true
+  final: true
+  recipe-maintainers:
+    - JamesSaxon
+    - jkoschinsky

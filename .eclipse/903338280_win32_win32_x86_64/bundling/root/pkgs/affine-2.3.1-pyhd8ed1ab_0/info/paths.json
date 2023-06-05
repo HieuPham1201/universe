@@ -1,0 +1,95 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/affine-2.3.1.dist-info/AUTHORS.txt",
+      "path_type": "hardlink",
+      "sha256": "43a32ef21e0714da9a8ba743e1dfe693e83cf8e978f5bfe16e0f56092e65e390",
+      "size_in_bytes": 264
+    },
+    {
+      "_path": "site-packages/affine-2.3.1.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/affine-2.3.1.dist-info/LICENSE.txt",
+      "path_type": "hardlink",
+      "sha256": "fc3636b54ff4072cf4b013ed9893c171ed25f88dae2b32722050499c1878cd6e",
+      "size_in_bytes": 1517
+    },
+    {
+      "_path": "site-packages/affine-2.3.1.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "6dd38345023f4e30871f23ddf8801d907b5c1783758377ee602063a21da34e24",
+      "size_in_bytes": 3567
+    },
+    {
+      "_path": "site-packages/affine-2.3.1.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "f7f6d12afbf19ca19241ceb2a0a82ab99187911abc55827691110a058c201f47",
+      "size_in_bytes": 1526
+    },
+    {
+      "_path": "site-packages/affine-2.3.1.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/affine-2.3.1.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+      "size_in_bytes": 110
+    },
+    {
+      "_path": "site-packages/affine-2.3.1.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "404551f4926f803b155de899e300ce0ad8f1b993da41dd24e5da71974743dd66",
+      "size_in_bytes": 102
+    },
+    {
+      "_path": "site-packages/affine-2.3.1.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "890cf2d1a7816feaebab942fac809bde20a4cb2c7284fe435b260489c9a63434",
+      "size_in_bytes": 7
+    },
+    {
+      "_path": "site-packages/affine-2.3.1.dist-info/zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "site-packages/affine/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "0ddad1c486f5a9c32cad6c225d51f58e1f1e2d371cea314327902f7d39e53d23",
+      "size_in_bytes": 20320
+    },
+    {
+      "_path": "site-packages/affine/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e843bc11735ec8b1ea101437754e37ae0e3f4899b0cfa748087b65feeb8f13b2",
+      "size_in_bytes": 27
+    },
+    {
+      "_path": "site-packages/affine/tests/test_pickle.py",
+      "path_type": "hardlink",
+      "sha256": "9bcb1fdaceebbe8251280ed2ba394e6ac70ffbd30efbf15869dc7e6412b88b73",
+      "size_in_bytes": 744
+    },
+    {
+      "_path": "site-packages/affine/tests/test_rotation.py",
+      "path_type": "hardlink",
+      "sha256": "a992d0b1cf55e401d1063b5dfeb6f33907018cc76f83d128e9480bbc019335ee",
+      "size_in_bytes": 1321
+    },
+    {
+      "_path": "site-packages/affine/tests/test_transform.py",
+      "path_type": "hardlink",
+      "sha256": "3c41c0558b9851dfe25f16f2d4d816a794ddabef9ba5dcac56df67230f8cfebe",
+      "size_in_bytes": 19815
+    }
+  ],
+  "paths_version": 1
+}

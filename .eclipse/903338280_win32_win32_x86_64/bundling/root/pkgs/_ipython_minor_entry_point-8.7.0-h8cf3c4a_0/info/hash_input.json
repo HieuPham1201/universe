@@ -1,0 +1,4 @@
+{
+  "channel_targets": "conda-forge main",
+  "ipython_launcher": "3.9"
+}
